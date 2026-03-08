@@ -48,9 +48,6 @@ Excel_FUNCTIONS/
 │   ├── HR_Excel_Series_Dataset - Practice - Day 6.xlsx
 │   └── HR_Excel_Series_Dataset - Answers - Day 6.xlsx
 │
-├── Day 7/
-│   ├── HR_Excel_Series_Dataset - Practice - Day 7.xlsx
-│   └── HR_Excel_Series_Dataset - Answers - Day 7.xlsx
 │
 └── README.md
 ```
